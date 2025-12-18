@@ -1,4 +1,4 @@
 This is Test File 1
 Changes to file1
 File1 Changed - For commit
-s
+New Line added again
