@@ -2,4 +2,10 @@ Hyngry
 	Samosa
 	Burger
 	Pizza
+<<<<<<< HEAD
 	Main-fries
+=======
+Thirsty
+	water
+	soda
+>>>>>>> thirsty
