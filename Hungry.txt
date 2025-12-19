@@ -5,3 +5,4 @@ Hyngry
 Thirsty
 	water
 	soda
+	Juice
